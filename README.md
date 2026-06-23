@@ -2,9 +2,7 @@
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AKAshrimp&layout=compact)
 
-# Hi 👋, I'm Calvin
-
-### A web developer who loves Web3, AI, and building practical software.
+# Hi 👋, I'm Kelvin
 
 [![GitHub](https://img.shields.io/badge/GitHub-AKAshrimp-181717?style=flat&logo=github)](https://github.com/AKAshrimp)
 [![Email](https://img.shields.io/badge/Email-kelvincheng213%40gmail.com-red?style=flat&logo=gmail)](mailto:kelvincheng213@gmail.com)
@@ -58,53 +56,10 @@ I'm interested in full-stack development, real-time AI systems, Web3, and softwa
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
----
-
-## Featured projects
-
-### Intelligent Subtitle Glasses for the Hearing Impaired
-
-Real-time subtitle glasses system for communication between Deaf and hearing users.
-
-- Built an Android companion app and Python WebSocket backend
-- Designed a low-latency audio streaming pipeline with chunked audio and filtering
-- Integrated STT, speaker diarization, voice ID, translation, and gesture recognition
-
-**Tech:** Android Java, Python, WebSocket, Hugging Face, PyTorch, MediaPipe
-
-### Course Website, Online Learning Platform
-
-A full-stack learning platform for students, teachers, and admins.
-
-- Built a Spring Boot REST API with React frontends
-- Added role-based access control, JWT sessions, Redis token management, and BCrypt
-- Added WebSocket support for real-time poll result updates
-
-**Tech:** Spring Boot, Spring Security, React, MySQL, Redis, JWT, Docker, WebSocket
-
-### WhatsApp AI RAG Memory Chatbot
-
-A Dockerized WhatsApp AI group assistant with long-term contextual memory.
-
-- Routed real-time group messages into n8n workflows
-- Built RAG memory with embeddings, Qdrant vector search, and semantic recall
-- Added AI chat, image tools, web search, service checks, and daily AI/dev news summaries
-
-**Tech:** Node.js, Express, n8n, Docker Compose, Qdrant, Brave Search, RSS, AI APIs
-
----
-
-## Awards
-
-- 3rd Place, The 12th Hong Kong University Student Innovation and Entrepreneurship Competition
-- 4th Place, Merit Award, Hong Kong Techathon+ 2026
-
----
-
 ## GitHub stats
 
 <div align="center">
 
-![Calvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKAshrimp&show_icons=true)
+![Kelvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKAshrimp&show_icons=true)
 
 </div>
