@@ -13,13 +13,12 @@
 
 ## About me
 
-I'm a final-year Computing student at Hong Kong Metropolitan University, graduating in August 2026.
-I'm interested in full-stack development, real-time AI systems, Web3, and software development.
+# Hi there, I'm Kelvin! 👋
 
-- 🔭 I'm currently working on **Spring Boot** and **image classification**
-- 🌱 I'm currently learning **Vue, MongoDB, JavaScript, Node.js, Express, TailwindCSS, TypeScript, Next.js, Python, and Java**
-- 🐶 Fun fact: I love dogs, especially Huskies
-- 📫 Reach me at **kelvincheng213@gmail.com**
+### 🎓 About Me
+- 🚀 **2026 Class Graduate** with a Bachelor of Science (Honours) in Computing.
+- 💡 **Tech Enthusiast & Innovator:** I have a deep passion for exploring cutting-edge technologies and turning innovative ideas into reality. I love challenging myself with complex problems[cite: 1].
+- 🎯 **Current Focus:** Seeking opportunities in **Full-Stack Development**, **Real-Time AI Systems**, and **Software Engineering** where I can drive impactful tech solutions[cite: 1].
 
 ---
 
