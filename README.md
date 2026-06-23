@@ -17,7 +17,7 @@
 
 ---
 
-### 🏆 Featured Projects & Achievements
+### 🏆 Achievements
 - 🥇 **Award-Winning Innovator:** Won 3rd Place at *The 12th Hong Kong University Student Innovation and Entrepreneurship Competition* and Merit Award at *Techathon+ 2026*.
 
 ---
