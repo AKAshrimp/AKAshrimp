@@ -17,8 +17,13 @@
 
 ### 🎓 About Me
 - 🚀 **2026 Class Graduate** with a Bachelor of Science (Honours) in Computing.
-- 💡 **Tech Enthusiast & Innovator:** I have a deep passion for exploring cutting-edge technologies and turning innovative ideas into reality. I love challenging myself with complex problems[cite: 1].
-- 🎯 **Current Focus:** Seeking opportunities in **Full-Stack Development**, **Real-Time AI Systems**, and **Software Engineering** where I can drive impactful tech solutions[cite: 1].
+- 💡 **Tech Enthusiast & Innovator:** I have a deep passion for exploring cutting-edge technologies and turning innovative ideas into reality. I love challenging myself with complex problems.
+- 🎯 **Current Focus:** Seeking opportunities in **Full-Stack Development**, **Real-Time AI Systems**, and **Software Engineering** where I can drive impactful tech solutions.
+
+---
+
+### 🏆 Featured Projects & Achievements
+- 🥇 **Award-Winning Innovator:** Won 3rd Place at *The 12th Hong Kong University Student Innovation and Entrepreneurship Competition* and Merit Award at *Techathon+ 2026*.
 
 ---
 
