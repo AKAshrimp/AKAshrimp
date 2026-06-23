@@ -9,8 +9,6 @@
 
 ---
 
-## About me
-
 
 ### 🎓 About Me
 - 🚀 **2026 Class Graduate** with a Bachelor of Science (Honours) in Computing.
